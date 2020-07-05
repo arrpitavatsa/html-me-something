@@ -1,0 +1,32 @@
+<style>
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  
+  text-align: center;
+}
+
+p {
+
+  font-size: 20px
+}
+
+.Browncolor {
+color:brown;
+}
+
+#bluecolor{
+color:blue;
+}
+
+div {
+  padding: 25px 50px;
+  border: 1px solid black;
+  margin: 25px 50px 75px 100px;
+  background-color: lightblue;
+}
+	
+</style>
